@@ -1,0 +1,8 @@
+{
+  "name": "Sankalp UPSC - AI Goal & Performance Tracker",
+  "description": "Comprehensive goal tracker, mock test analytics, syllabus revision radar, and personalized AI UPSC mentor for Civil Services Examination aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
